@@ -1,0 +1,2 @@
+# MYSQLNOTE
+study for mysql
